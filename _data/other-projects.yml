@@ -1,0 +1,33 @@
+- name: InstaFlame
+  url: https://github.com/Haisem-j/instaflame-revamped
+  code: https://github.com/Haisem-j/instaflame-revamped
+  description: A working model of Instagram with many of it's core features functional.
+  used:
+    - thing: React
+    - thing: React Router
+    - thing: Redux
+    - thing: Python
+    - thing: Django
+    - thing: MySQL
+    - thing: DigitalOcean
+
+- name: ChatApp
+  url: https://github.com/Haisem-j/chatapp
+  code: https://github.com/Haisem-j/chatapp
+  description: A chat application similar to discord. Allows users to create their own rooms and join other rooms for instant messaging.
+  used:
+    - thing: React
+    - thing: React Router
+    - thing: Python
+    - thing: Django
+    - thing: MySQL
+    - thing: DigitalOcean
+
+- name: World Facts
+  url: https://github.com/Haisem-j/world-facts-with-redux
+  code: https://github.com/Haisem-j/world-facts-with-redux
+  description: A simple web application that uses REST Country API. Provides information about any given country to the user, including flag, population currency
+  used:
+    - thing: React
+    - thing: Redux
+

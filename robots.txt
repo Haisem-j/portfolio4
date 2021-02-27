@@ -1,0 +1,4 @@
+User-agent: *
+allow:
+
+Sitemap: https://robinz.in/sitemap.xml

@@ -1,0 +1,42 @@
+# Site settings
+name: Haisem Jemal
+title: Haisem Jemal | Full Stack Developer
+description: Full Stack Developer focused on deploying high quality web applications
+url: https://haisemjemal.com
+baseurl: ''
+email: haisem.jemal@gmail.com
+cover: /img/og.png
+logo: /img/emojis/technologist.png
+resume: /resume/Haisem_Jemal_Resume_GEN.pdf
+social:
+  - title: email
+    url: mailto:haisem.jemal@gmail.com
+  - title: github
+    url: https://github.com/Haisem-j
+  - title: linkedin
+    url: https://www.linkedin.com/in/haisemjemal
+
+# Build settings
+markdown: kramdown
+
+include:
+  - '_pages'
+  - '_posts'
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier

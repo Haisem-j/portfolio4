@@ -1,0 +1,21 @@
+languages:
+  - item: JavaScript
+  - item: Python
+  - item: SQL
+  - item: Node.js
+
+frameworks:
+  - item: Django
+  - item: React.js
+  - item: Next.js
+  - item: Express.js
+
+tools:
+  - item: Bash
+  - item: Git
+  - item: Nginx
+  - item: DigitalOcean
+
+databases:
+  - item: MySQL
+  - item: MongoDB
