@@ -1,3 +1,17 @@
+- name: Dropai.app
+  url: https://www.dropai.app
+  code: https://github.com/Haisem-j/dropai
+  description: An AI-powered tool that helps eCommerce store owners generate product descriptions, landing page copy, and other written content for their website.
+  used:
+    - thing: React.js
+    - thing: Typescript
+    - thing: Node.js
+    - thing: Tailwind
+    - thing: OpenAi
+    - thing: Stripe
+    - thing: Firebase
+    - thing: DigitalOcean
+
 - name: InstaFlame
   url: https://github.com/Haisem-j/instaflame-revamped
   code: https://github.com/Haisem-j/instaflame-revamped
@@ -23,11 +37,4 @@
     - thing: MySQL
     - thing: DigitalOcean
 
-- name: World Facts
-  url: https://github.com/Haisem-j/world-facts-with-redux
-  code: https://github.com/Haisem-j/world-facts-with-redux
-  description: A simple web application that uses REST Country API. Provides information about any given country to the user, including flag, population currency
-  used:
-    - thing: React
-    - thing: Redux
 
